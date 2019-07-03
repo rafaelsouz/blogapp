@@ -48,13 +48,11 @@
         app.set('view engine','handlebars')
     //Mongoose
             mongoose.Promise = global.Promise;
-            mongoose.connect(db.mongoURI, {
-                useNewUrlParser:true
-        }).then(()=>{
-            console.log("Mongodb conectado");
-        }).catch((err)=>{
-            console.log("Houve um erro ao se conectar ao mongodb " + err)
-        })
+            mongoose.connect(db.mongoURI,{useNewUrlParser:true}).then(()=>{
+                    console.log("Mongodb conectado");
+                }).catch((err)=>{
+                    console.log("Houve um erro ao se conectar ao mongodb " + err)
+                })
     
     //Public
         app.use(express.static(path.join(__dirname,'public')))
