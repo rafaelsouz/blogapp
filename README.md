@@ -1,5 +1,6 @@
 <h1 align="center">Projeto de estudo</h1>
-<h1 align="center"><br><img src="./banner.png" alt="banner" />
+
+<br><img align="center" src="./banner.png" alt="banner" > 
 <br>
 
 <br>
