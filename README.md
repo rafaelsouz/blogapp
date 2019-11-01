@@ -1,9 +1,7 @@
+<h1 align="center">Projeto de estudo</h1>
 <h1 align="center"><br><img src="./banner.png" alt="banner" />
 <br>
-<br>
 
-
-<h1 align="center">Projeto de estudo</h1>
 <br/>
 Projeto desenvolvido durante o curso de NodeJS do [Victor Lima - Guia do Programador](https://www.youtube.com/watch?v=LLqq6FemMNQ&list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B).
 <br/>
