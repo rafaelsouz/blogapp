@@ -1,9 +1,9 @@
 <h1 align="center">Projeto de estudo</h1>
+<br/>
+<img align="center" src="./banner.png" alt="banner" > 
+<br/>
 
-<br><img align="center" src="./banner.png" alt="banner" > 
-<br>
-
-<br>
+<br/>
 Projeto desenvolvido durante o curso de NodeJS do [Victor Lima - Guia do Programador](https://www.youtube.com/watch?v=LLqq6FemMNQ&list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B).
 <br/>
 <h1 align="center">BlogApp</h1>
