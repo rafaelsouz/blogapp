@@ -4,7 +4,9 @@
 <br/>
 
 <br/>
+<h3>
 Projeto desenvolvido durante o curso de NodeJS do [Victor Lima - Guia do Programador](https://www.youtube.com/watch?v=LLqq6FemMNQ&list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B).
+</h3>
 <br/>
 <h1 align="center">BlogApp</h1>
 Um blog feito com NodeJS, Express, Handlebars e MongoDB. <br/>
