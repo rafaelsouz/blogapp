@@ -9,7 +9,7 @@ Projeto desenvolvido durante o curso de NodeJS do [Victor Lima - Guia do Program
 <br/>
 <h1 align="center">BlogApp</h1>
 Um blog feito com NodeJS, Express, Handlebars e MongoDB. <br/>
-Uma aplicação simples, todos os usuarios pode filtar os posts por categorias e comentar em cada post, e apenas admins podem criar postagens e categorias. 
+Uma aplicação simples, todos os usuarios pode ler e filtar os posts por categorias, e apenas admins podem criar postagens e categorias. 
 
 
 ## Instalação
